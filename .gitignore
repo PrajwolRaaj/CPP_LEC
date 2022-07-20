@@ -6,6 +6,4 @@
 !*.*
 *.dSYM
 .vscode
-
 *exe
-*.exe
