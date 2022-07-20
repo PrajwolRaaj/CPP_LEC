@@ -5,11 +5,12 @@ using namespace std;
 
 int main()
 {
-    char c, str[25];
+    char c, str[30];
     cout<<"Enter a character: ";
-    cin.get (c);
+    cin.get(c);
+
     cout<<"\n The entered character is ";
     cout.put(c);
-    
+
     return 0;
 }
