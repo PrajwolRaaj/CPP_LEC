@@ -18,3 +18,4 @@ int main(){
     cout<<"The area of the given triangle is "<<area;
     return 0;
 }
+ 
